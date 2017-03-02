@@ -26,6 +26,14 @@ hr {
     height: 600px;
 	background: url("Photos/rotterdam-1598418_1920.jpg") no-repeat center center;
 	background-size:cover;
+	color:white;
+	padding-top: 200px;
+  }
+  .sec-main p {
+	  color: white;
+	  font-size:1em;
+	  background:#0000FF;
+	  padding:10px;
   }
 
 .main-heading {
